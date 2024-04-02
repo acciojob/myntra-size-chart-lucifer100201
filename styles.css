@@ -1,2 +1,9 @@
+*
+{ margin:0;
+  padding:0;
+  box-sizing:border-box;
+ }
+thead{
+	border:1px solid grey
+}
 
-/* Your CSS Code here. */
